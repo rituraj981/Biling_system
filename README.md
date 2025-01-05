@@ -10,3 +10,6 @@ Developed a Python-based billing software using the Tkinter library to streamlin
 - Data Validation: Ensures smooth user interactions with error handling and clear/reset functionality.
 - Randomized Bill Numbers: Generates unique bill numbers for each transaction
 
+- 
+
+![Screenshot 2025-01-05 224900](https://github.com/user-attachments/assets/0db24a5f-aaaa-4425-9f8b-773862cdf24f)
